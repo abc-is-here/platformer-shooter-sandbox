@@ -1,10 +1,10 @@
 I made a sandbox where you can test and make some levels and save them in the csv format, everything is quite straightforward
 Controls:
-For level editor:
+For level editor (main.py):
   Left and right arrow keys to move left and right
   click to select a block
   Right click to erase a block
-For GamePlay:
+For GamePlay(game.py):
   WASD - to move
   Q - to throw bombs
   SPACE - to shoot
